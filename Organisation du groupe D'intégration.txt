@@ -1,0 +1,36 @@
+Organisation du groupe D'intégration
+
+Nom:
+- BILL(Responsable)
+- LAURENT
+- NICOLETTI
+- BALTYDE
+
+
+Notre objectif: Assemblage/intégration global de chaque parties des groupes (programmes).
+				
+
+Contraintes:
+Porgrammes => test => Intégration
+
+
+Programmes:
+Php/sql
+java
+algo
+
+outils de travail de chaque équipe
+Conception : Argo / Balsamiq 
+IHM : Balsamiq / Power point / HTML / CSS
+Base de données : SQL / My SQL / Analyse SI
+Backend : PHP / SQL
+Tests : PHP (PHP Units) / Github / My SQL ou Uwamp
+Sublime text
+LateX
+Visual Studio, etc...
+
+Communication:
+Github
+Discord
+Google Drive
+Whats app
